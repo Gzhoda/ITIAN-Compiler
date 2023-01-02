@@ -1,3 +1,3 @@
-# ITIAN-Compiler
-As a team we will be implementing a Compiler through Python and Implementing a few stages of it
-Create your own Files Related to your tasks in the compiler
+# Tknter Tasks
+I created a repo Which involves both projects in the Tkinter project.py fileI hope you enjoy it,
+it will be improved with more time ofcourse
